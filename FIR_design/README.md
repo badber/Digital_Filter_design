@@ -1,1 +1,1 @@
-Design equirripple FIR filters to meet certain specs, using the Remez algorithm. Also, design FIR filters using a window method. The code contains detailed comments, including the advantages of equiripple and window-based filters.
+Design equiripple FIR filters to meet certain specs, using the Remez algorithm. Also, design FIR filters using a window method. The code contains detailed comments, including the advantages of equiripple and window-based filters.
