@@ -1,1 +1,1 @@
-Inefficient way to design a digital IIR filter that meets certain specifications by iteratively hand-placing poles and zeros in the z-plane. This way of designing a filter, although inefficient, helps you understand how the location of poles and zeros affects a filter's response.
+Design equirripple FIR filters to meet certain specs, using the Remez algorithm. Also, design FIR filters using a window method. The code contains detailed comments, including the advantages of equiripple and window-based filters.
