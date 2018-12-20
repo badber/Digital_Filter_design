@@ -1,1 +1,1 @@
-Inefficient way to design a digital IIR filter that meets certain specifications by iteratively hand-placing poles and zeros in the z-plane. This way of designing a filter, although inefficient, helps you understand how the location of poles and zeros affects a filter's response.
+Design elliptic IIR filters that meet certain specs by making use of Matlab's filter design toolbox. The code contains detailed comments.
